@@ -11,41 +11,31 @@ I'm a developer 🌷, isn't that fantastic?
 
 These are my superpowers 🦄
 ---------------------------
+<p>
+  
+<img height="30" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/react.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/nextjs.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/nodejs.svg">
+<p/>
+<p>
 
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/javascript.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/react.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/nodejs.svg">
-</code>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="30"/>
+<img height="30" src="https://cdn.svgporn.com/logos/npm.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<p/>
 
+<p>
 
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/firebase.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/npm.svg">
-</code>
-<code>
-  <img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg">
-</code>
+<img height="30" src="https://cdn.svgporn.com/logos/sass.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/uikit.svg">
+<img height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg">
+</p>
 
 
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/sass.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/uikit.svg">
-</code>
-<code>
-<img height="20" src="https://cdn.svgporn.com/logos/bulma.svg">
-</code>
+ 
+
 
 
 Enjoy meanwhile you stay here 🌺
